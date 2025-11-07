@@ -1,8 +1,7 @@
-import streamlit as st
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from matplotlib.collections import LineCollection
-import seaborn as sns
-import io
-import csv
+streamlit 
+numpy 
+pandas 
+matplotlib
+seaborn 
+io
+csv
